@@ -1,0 +1,508 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=iso-8859-1">
+	<TITLE>STP 308: Design For Values</TITLE>
+	<META NAME="GENERATOR" CONTENT="StarOffice/5.2 (Linux)">
+	<META NAME="CREATED" CONTENT="20010910;8563900">
+	<META NAME="CHANGEDBY" CONTENT=" ">
+	<META NAME="CHANGED" CONTENT="20030909;11083400">
+	<STYLE>
+	<!--
+		H1 { color: #231c3a }
+		TD P { color: #231c3a }
+		H3 { color: #231cff }
+		H4 { color: #231c3a }
+		P { color: #231c3a }
+		A:link { color: #ff0057 }
+	-->
+	</STYLE>
+</HEAD>
+<BODY TEXT="#231c3a" LINK="#ff0057" BGCOLOR="#ffffff">
+<H1 ALIGN=CENTER>STP 308: Design for Values</H1>
+<H3 ALIGN=CENTER>Professor: <A HREF="http://www.ksg.harvard.edu/people/jcamp/">Jean
+Camp</A></H3>
+<h3> <A href=308Prospectus.html>Prospectus</a></h3>
+<H4>required text: 
+</H4>
+<P>&quot;Human Values and the Design of Computer Technology&quot;
+Batya Friedman (Editor) C S L I Publications; 2001</P>
+<H4>recommended texts:</H4>
+<P>&quot;Peer-to-Peer Harnessing the Power of Disruptive
+Technologies&quot; by Andy Oram (Editor) O'Reilly and Associates,
+2001 
+</P>
+<P>&quot;Does Technology Drive History&quot; by Smith &amp; Marx
+(Editors) MIT Press 2001 (5th edition) 
+</P>
+<OL>
+	<H3>Shopping</H3>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="one"></A><B><FONT SIZE=4 STYLE="font-size: 16pt"><FONT COLOR="#000066">Shopping
+	Day</FONT></FONT></B> 
+	</P>
+	<HR>
+	<P STYLE="margin-bottom: 0in">Reading: 
+	</P>
+	<P>Assignment on technological determinism.</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Goals, guides and tools for STP
+		308 for Fall 2003 
+		</P>
+	</UL>
+	<P>If you choose to take the class give me your name and I will
+	ensure you have access to the class web page. 
+	</P>
+	<H3>Section I: Technological Determinism</H3>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="two"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Society
+	as Technologically Determined</B></FONT></FONT></P>
+	<HR>
+	<P><BR>&nbsp; Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Eisenstien, <I>The Printing Press
+		as An Agent of Change</I>, excerpt -- correct excerpt available
+		outside my office Wednesday</P>
+		<LI><P STYLE="margin-bottom: 0in">MacKenzie, <I>Inventing Accuracy</I>,
+		excerpt 
+		</P>
+		<LI><P>Winner, <I>The Whale and the Reactor</I> excerpt. 
+		</P>
+	</UL>
+</OL>
+<P><BR><BR>
+</P>
+<P><BR><BR>
+</P>
+<P><BR><BR>
+</P>
+<OL>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="three"></A><B><FONT SIZE=4 STYLE="font-size: 16pt"><FONT COLOR="#000066">Technology
+	as Socially Determined</FONT></FONT></B> 
+	</P>
+	<HR>
+	<P><BR>&nbsp; Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Bijker &amp; Pinch, <I>The Social
+		Construction of Technological Systems</I> (MIT Press, 1987) 
+		</P>
+		<LI><P>Merrit Roe Smith <I>Does Technology Drive History</I> &amp;
+		Leo Marx, &quot; Technological Determinism in American Culture&quot;,
+		Merritt Roe Smith pp. 1-35. 
+		</P>
+	</UL>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="four"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Technology
+	and Society in ICTs </B></FONT></FONT>
+	</P>
+	<HR>
+	<P><BR>&nbsp; Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in"><I>The Control Revolution</I>
+		(MIT Press, 1987) 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Fischer, <I>A Social History of
+		the Telephone Chapter 4</I>, pp. 86-121 (entire book on reserve) 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Douglas, S. 1997, <I>Inventing
+		American Broadcasting 1899-1922</I>, Johns Hopkins Univ. Press,
+		except. Outside my office. (entire book on reserve) 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Pool, &quot;Policies for Freedom&quot;
+		Technologies of Freedom, MIT Press, Cambridge, MA. 1983, pp. 1-10,
+		pp. 226-251 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">optional: Wade Rowland <I>Spirit
+		of the Web: The Age of Information from Telegraph to Internet</I>
+		Chapter 9: A Convivial Technology &amp; Chapter 31: The Promise of
+		the Age of Information 
+		</P>
+	</UL>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="five"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Code
+	and Other Laws: Is Coding Inherently a Values Based Act</B></FONT></FONT></P>
+	<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Lessig: Code and Other Laws of
+		Cyberspace, Basic Books, 1999, Chapter 7: What Things Regulate pp.
+		85-99 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Serena Syme &amp; L. Jean Camp,
+		&quot;The Governance of Code: Code as Governance&quot;, <I>Proceedings
+		of Ethicomp: The Social and Ethical Impacts of Information and
+		Communications Technologies</I> June 2001, Vol. 1, pp. 86-101. 
+		</P>
+	</UL>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="five1"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Accountability
+	and Bias in IT</B></FONT></FONT></P>
+	<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Nissebaum, Accountability in a
+		Computerized Society in <I>Friedman</I> 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Friedman, Bias in Computer
+		Systems in <I>Friedman</I> 
+		</P>
+		<LI><P>Chapter 16: <A HREF="http://www.freehaven.net/doc/oreilly/accountability-ch16.htmlhttp://www.freehaven.net/doc/oreilly/freehaven-ch12.html301catalogue_copy.doc">Peer-to-peer
+		as disruptive technologies,</A> Accountability 
+		</P>
+	</UL>
+	<H3>Section II: Case Studies</H3>
+	<LI><P STYLE="margin-bottom: 0in"><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Values
+	in IT: A Case Study </B></FONT></FONT>
+	</P>
+	<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Suchman, Do Categories Have
+		Politics? in <I>Friedman</I> 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Winograd, Categories,
+		Disciplines, and Social Coordination in <I>Friedman</I> 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Malone, Commentary on Suchman
+		Article and Winograd Article in <I>Friedman</I> 
+		</P>
+	</UL>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="seven"></A><B><FONT SIZE=4 STYLE="font-size: 16pt"><FONT COLOR="#000066">DNS:
+	Constant technology and Shifting Values</FONT></FONT></B> 
+	</P>
+	<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">The Internet as Anarchy: A
+		Cyberpunk Manifesto 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Fool Me Once, Shame on You, A
+		Critical Look at the Privitization of ICANN 
+		</P>
+		<LI><P>Michael Froomkin's discussion of power concentration <A HREF="http://www.law.miami.edu/%7Efroomkin/articles/empire.htm">The
+		Empire Strikes Back </A>and in particular how ICANN is a part of
+		this trend in<A HREF="http://www.law.miami.edu/%7Efroomkin/articles/governance.htm">
+		Of Governance and Governments</A> 
+		</P>
+	</UL>
+	<H3>Section III: Privacy and ICTs</H3>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="eight"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>What
+	is Privacy </B></FONT></FONT>
+	</P>
+	<HR>
+	<P STYLE="margin-bottom: 0in">Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Agre &amp; Malloux, Social Choice
+		about Privacy: Intelligent Vehicle - Highway Systems in the United
+		States, in Friedman 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Julie Cohen's <A HREF="http://papers.ssrn.com/paper.taf?abstract_id=17990">The
+		Right to Read Anonymously</A> 
+		</P>
+		<LI><P>Camp, &quot;Design for Trust&quot; Trust and Reputation in
+		Agent Societies, Spinger-Verlag, ed. Falcone, Fall 2003.</P>
+	</UL>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="twelve"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>PGP:
+	Technical Politics of Privacy</B></FONT></FONT></P>
+	<HR>
+	<P STYLE="margin-bottom: 0in">&nbsp; Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">PGP: Pretty Good Privacy <A HREF="http://www.labnet.com/irg/pgp1.htm">PGP
+		explained</A> 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">The<A HREF="http://www.eff.org/Legal/Cases/PGP_Zimmermann/301catalogue_copy.doc">
+		EFF Archive of PGP is a collection of fairly small documents</A>.</P>
+	</UL>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="thirteen"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>P3P:
+	Privacy as a Preference</B></FONT></FONT></P>
+	<HR>
+	<P STYLE="margin-bottom: 0in">&nbsp; Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">CPSR's <A HREF="http://www.cpsr.org/program/privacy/p3p-faq.html301catalogue_copy.doc">P3P
+		FAQ</A> 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Hochheiser, &quot; P3P: The
+		Creation of a Political Protocol&quot;, provided in class 
+		</P>
+		<LI><P><A HREF="http://www.w3.org/TR/2001/WD-P3P-20010928/">P3P 1.0
+		spec</A> 
+		</P>
+	</UL>
+	<H3>Section V: Digital Rights Management</H3>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="fifteen"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Digital
+	Rights Management &amp; Copyright </B></FONT></FONT>
+	</P>
+	<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in"><A HREF="http://www.theatlantic.com/issues/98sep/copy.htm">Who
+		Will Own your next Good Idea? </A>Atlantic Monthly 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Jessica Litman, Reforming
+		Information law in Copyright's Image, 22 University of Dayton Law
+		review, 587 (1997). 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Neil Weinstock Netanel, Copyright
+		and a Democratic Civil Society, 106 Yale Law Journal, 283 (1996) 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">optional: Camp, &quot;DRM Doesn't
+		Really Mean Copyright&quot;, IEEE Internet Computing. May 2003. on
+		the web page. 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">optional: Litman <I>Digital
+		Copyright</I> on reserve. 
+		</P>
+	</UL>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="fifteen1"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Digital
+	Rights Management &amp; Technology </B></FONT></FONT>
+	</P>
+	<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Camp, &quot;DRM Doesn't Really
+		Mean Copyright&quot;, IEEE Internet Computing. May 2003. on the
+		course page. 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Samuleson, <A HREF="http://www.sims.berkeley.edu/~pam/papers.html">Digital
+		Rights Management {and, or, vs.} the Law</A> vol. 46, no. 4, April
+		2003 
+		</P>
+		<LI><P>optional: Lessig <I>The Future of Ideas</I> on reserve. 
+		</P>
+	</UL>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="sixteen"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>CSS
+	&amp; DeCSS</B></FONT></FONT></P>
+	<HR>
+	<P STYLE="margin-bottom: 0in">Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">The EEF FAQ on the DeCSS/Johansen
+		case</P>
+		<LI><P STYLE="margin-bottom: 0in"><A HREF="http://www.sims.berkeley.edu/~pam/papers/Samuelson.doc">Intellectual
+		Property And The Digital Economy: Why The Anti-Circumvention
+		Regulations Need To Be Revised</A> by Samuelson 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">optional: CSS-<A HREF="http://www.courtinfo.ca.gov/opinions/documents/H021153.PDF301catalogue_copy.doc">
+		the full text of the Code as Speech ruling</A> 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">optional: The presentations at
+		the <A HREF="http://www.w3.org/2000/12/drm-ws/agenda.html301catalogue_copy.doc">ACM
+		Workshop for Digital Rights Management </A>are short. Of particular
+		interest are the presentations by publishers. 
+		</P>
+	</UL>
+	<H3>Section V: Filtering</H3>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="twentytwo"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Filtering
+	and Content Control</B></FONT></FONT></P>
+	<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">French Yahoo Nazi from <A HREF="http://www.law.berkeley.edu/cenpro/samuelson/news/20011107-yahoo.html">the
+		Samuleson Clinic</A> 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Zittrain and Edelman
+		<A HREF="http://cyber.law.harvard.edu/filtering/">Documentation of
+		Internet Filtering Worldwide</A> 
+		</P>
+		<LI><P>optional, as needed: <A HREF="http://www.cpsr.org/filters/faq.html">CPSR
+		Filtering FAQ</A> 
+		</P>
+	</UL>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="twentythree"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>The
+	Search for Values-Neutral Filtering Technology </B></FONT></FONT>
+	</P>
+	<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Lessig, <A HREF="http://www.wired.com/wired/5.07/cyber_rights_pr.html">PICs
+		is the Devil</A> 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Resnik's response to PICs is the
+		Devil. Wired, July 1997, Vol 5, No 7 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Lessig, Lawrence and Paul Resnick
+		(1999) &quot;Zoning Speech on the Internet: A Legal and Technical
+		Model&quot;Michigan Law Review Vol 98, No. 2: 395-431 
+		</P>
+		<LI><P>Cranor, &quot;<A HREF="http://lorrie.cranor.org/pubs/dimacs-values.html301catalogue_copy.doc">Biases
+		and Responsibility in <I>Neutral</I> Social Protocols&quot;</A> 
+		</P>
+	</UL>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="twentythree1"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Searching</B></FONT></FONT></P>
+	<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Nissenbaum and Introna <A HREF="ww.princeton.edu/~helen/engine.html">Shaping
+		the Web: Why the politics of search engines matters </A>
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Mowshowitz and Kawaguchi
+		&quot;Assessing bias in search engines&quot; Information Processing
+		&amp; Management 2001 38 (1)141-156 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">optional: <A HREF="http://news.com.com/2010-1080-281304.html">AOL's
+		&quot;youth filters&quot; protect kids from Democrats</A> 
+		</P>
+		<LI><P>optional: <A HREF="http://archive.salon.com/tech/feature/2000/03/24/google_odp/">Convincing
+		users that Google is not on the take</A> 
+		</P>
+	</UL>
+	<H3>Section VI: Equity</H3>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="eighteen"></A><FONT SIZE=4 STYLE="font-size: 16pt"><B>Distribution
+	as a Social Value: Intro to Peer-to-Peer </B></FONT>
+	</P>
+	<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Oram <A HREF="http://www.oreilly.com/%7Eandyo/professional/p2p_foundation.html">Peer-to-peer
+		offers an opportunity to rebuild the foundations of the Internet </A>
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">L. Jean Camp <A HREF="http://www.ljean.org/files/P2P.pdf">Peer
+		to Peer Systems</A>, <I>The Internet Encyclopedia</I> ed. Hossein
+		Bidgoli, John Wiley &amp; Sons (Hoboken, New Jersey) 2003. 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in"><A HREF="http://www.firstmonday.org/issues/issue6_8/pfahl/index.html">Giving
+		Music Away to Make Money</A> 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">optional: Love, <A HREF="www.salon.com/tech/feature/2000/06/14/love/">Courtney
+		Does the Math</A> Salon, June 14 2002. 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">optional: <A HREF="http://www.uow.edu.au/arts/sts/bmartin/pubs/98il/il03.html">Intellectual
+		property as theft</A>. Note this is one chapter in an on-line book.
+				</P>
+		<LI><P>optional: <A HREF="http://www.azoz.com/music/features/0008.html">an
+		analysis of music industry statistics</A> irreverent and funny but
+		making a very good point. 
+		</P>
+	</UL>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="twentytwo1"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Network
+	Design for Universal Service, QoS and Wi-Fi</B></FONT></FONT></P>
+	<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Babb &quot;Surfing the Knowledge
+		Waves: Access for Caribbean Development&quot; <I>Information,
+		Communications &amp; Ethics in Society</I> Vol 1, No 2, pp. 70- 80.
+				</P>
+		<LI><P STYLE="margin-bottom: 0in">L. Jean Camp &amp; Rose Tsang,
+		&quot;Universal service in a ubiquitous digital network&quot;,<I>
+		Journal of Ethics and Information Technology</I>, Vol. 2, No. 1,
+		2001. Previously presented at INET 1999. 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">John Palfrey on Super DMCA<A HREF="http://blogs.law.harvard.edu/palfrey/stories/storyReader$86">
+		Testimony regarding Massachusetts House Bill No. 2743</A> 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in"><A HREF="http://www.freedom-to-tinker.com/superdmca.html">Summary
+		of super-DMCA laws.</A> 
+		</P>
+	</UL>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="twentytwo2"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Values
+	in Open and Closed Code</B></FONT></FONT></P>
+	<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Stallman, &quot;Why Software
+		Should be Free&quot; in Bynum and Rogerson <I>Computer Ethics and
+		Professional Responsibility</I> Oxford 2002. 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Osorio-Urzua, Carlos<A HREF="http://opensource.mit.edu/papers/osorio.pdf">
+		A contribution to the understanding of illegal copying of software:
+		empirical and analytical evidence against conventional wisdom </A>
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">optional: MITRE report <A HREF="www.egovos.org/pdf/dodfoss.pdf">use
+		of open code in the DoD</A> 
+		</P>
+	</UL>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="twentytwo3"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Technical
+	Design for Universal Access</B></FONT></FONT></P>
+	<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Libby Levison <A HREF="www.cag.lcs.mit.edu/tek/papers/tek-www02.pdf">Searching
+		the World Wide Web in Low-Connectivity Communities</A> the TEK
+		project. 
+		</P>
+		<LI><P>Martyris &quot;Public Private Partnerships to Build Low Cost
+		Rural Access &amp;quit;<I>Information, Communications &amp; Ethics
+		in Society</I> Vol 1, No 2, pp. 81-96. 
+		</P>
+	</UL>
+	<H3>Section VI: General Principles &amp; Presentation</H3>
+	<LI><P STYLE="margin-bottom: 0in"><A NAME="eight1"></A><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Hactivism
+	and Cases</B></FONT></FONT></P>
+	<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in"><A HREF="http://www.pcworld.com/news/article/0,aid,110005,00.asp">Denial
+		of service against Al-Jazeera</A> 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in"><A HREF="http://www.internetnews.com/xSP/article.php/2175941">Akami
+		cancelation of Akami contract with Al-Jazeera</A> 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Hactivism in the service of human
+		right by Patrick Ball. There is a <A HREF="http://shr.aaas.org/presentations/defcon_0701/index.htm">presentation</A>
+				</P>
+		<LI><P>optional: <A HREF="http://www.actlab.utexas.edu/~zapatistas/">The
+		original hactivists: Zapista net</A> 
+		</P>
+	</UL>
+		<LI><P STYLE="margin-bottom: 0in"><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>
+A Policy Approach to Values-Based Design</B></FONT></FONT></P>
+	</P>
+	<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Clark, Wroclawski, Sollins, and
+		Braden, <A HREF="www.acm.org/sigs/sigcomm/sigcomm2002/papers/tussle.pdf">A
+		Tussle In Cyberspace</A> Proceedings of the ACM SIGCOMM 2000
+		Conference on Applications, Technologies, Architectures, and
+		Protocols for Computer Communication. 
+		</P>
+		<LI><P>L. Jean Camp, &quot;The Shape of the Network&quot;,
+		Governance in a Globalizing World, ed. J. Donahue, Brookings Press
+		(Washington, DC) 2001. 
+		</P>
+	</UL>
+	<LI><P STYLE="margin-bottom: 0in"><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Project Presentations</B></FONT></FONT></P>	</P>
+	<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Other Students Project
+		presentation 
+		</P>
+		<LI><P>Guidelines for Peer Evaluations 
+		</P>
+	</UL>
+	
+		<LI><P STYLE="margin-bottom: 0in"><FONT COLOR="#000066"><FONT SIZE=4 STYLE="font-size: 16pt"><B>End Notes</B></FONT></FONT></P>	</P>
+<HR>
+	<P>Reading: 
+	</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Final discussion of final papers 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Social Human-Computer Interaction
+		in <I>Friedman</I> 
+		</P>
+		<LI><P>Reasoning About Computers as Moral Agents in <I>Friedman</I>
+				</P>
+	</UL>
+</OL>
+</BODY>
+</HTML>
